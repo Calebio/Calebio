@@ -42,7 +42,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img
+<p> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"
       alt="Azure" width="40" height="40" /> </a> 
        <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core" target="_blank" rel="noreferrer">
@@ -93,7 +93,7 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+<p><img align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Calebio&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
