@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">.Net Developer and Network Engineer at Credevnet Technologies🌟.</h3>
+<h3 align="center">Cloud Engineer| .Net Developer | AWS Solution Architect🌟.</h3>
 
 <br>
 
@@ -19,13 +19,13 @@
 - 👀 I’m interested in C#.Net, Not bound by a single technology but more focused on solving problems using the best available tool or technology. 
 
 
-- ⚡ Fun fact :- Food(I love food lol) and Music(I play saxophone and flute)🎵.
+- ⚡ Fun fact :- Music(I play saxophone and flute)🎵.
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/caleb-emmanuel-246555176/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/calebio" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Caleb" height="30" width="40" /></a>
   <a href="https://fb.com/Calebio10" target="blank"><img align="center"
