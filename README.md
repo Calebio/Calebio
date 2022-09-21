@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Kalebiotezz@yahoo.com**
 
-- 👀 I’m interested in C#.Net, Not bound by a single technology but more focused on solving problems using the best available tool or technology. 
+- 👀 I’m interested in C#.Net, AWS Cloud Infrastructure, Terraform. Not bound by a single technology but more focused on solving problems using the best available tool or technology. 
 
 
 - ⚡ Fun fact :- Music(I play saxophone and flute)🎵.
