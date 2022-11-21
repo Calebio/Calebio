@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">Cloud Engineer| .Net Developer | Cloud Support Engineer🌟.</h3>
+<h3 align="center">Cloud Engineer| .Net Developer | Support Engineer🌟.</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Kalebiotezz@yahoo.com**
 
-- 👀 I’m interested in Python, C#.Net, AWS, Terraform. Not bound by a single technology but more focused on solving problems using the best available tool or technology. 
+- 👀 I’m interested in Python, C#.Net, AWS, Terraform. More focused on solving problems using the best available tool or technology. 
 
 
 - ⚡ Fun fact :- I love Swimming 🏊, travelling ✈️, and I love to play Saxophone a lot! 🎷 💯🎵.
