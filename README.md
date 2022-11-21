@@ -12,14 +12,14 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development(Backend) and Cloud Technologies
+- 🌱 I’m currently building projects with Python, Terraform, AWS, Bash, CI/CD and I'm learning HuggingFace(NLP)
 
 - 📫 How to reach me **Kalebiotezz@yahoo.com**
 
-- 👀 I’m interested in C#.Net, AWS Cloud Infrastructure, Terraform. Not bound by a single technology but more focused on solving problems using the best available tool or technology. 
+- 👀 I’m interested in Python, C#.Net, AWS, Terraform. Not bound by a single technology but more focused on solving problems using the best available tool or technology. 
 
 
-- ⚡ Fun fact :- Music(I play saxophone and flute)🎵.
+- ⚡ Fun fact :- I love Swimming 🏊, travelling ✈️, and I love to play Saxophone a lot! 🎷 💯🎵.
 
 <br>
 
