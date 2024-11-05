@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center"> ☁️AWS Cloud Architect/Engineer☁️| .Net Developer🌟.</h3>
+<h3 align="center"> ☁️Cloud Engineer☁️| .Net Developer🌟.</h3>
 
 <br>
 
@@ -12,14 +12,14 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently building projects with Python, Terraform, AWS, CI/CD and I'm learning HuggingFace(NLP)
+- 🌱 I’m currently building projects with Azure, Terraform, AWS, CI/CD and .Net
 
 - 📫 How to reach me **Kalebiotezz@yahoo.com**
 
-- 👀 I’m interested in Python, C#.Net, AWS, Terraform. More focused on solving problems using the best available tool or technology. 
+- 👀 I’m interested in Azure, C#.Net, AWS, Terraform. More focused on solving problems using the best available tool or technology. 
 
 
-- ⚡ Fun fact :- I love Swimming 🏊, travelling ✈️, and I love to play Saxophone a lot! 🎷 💯🎵.
+- ⚡ Fun fact :- I play Saxophone🎷 and flute 💯🎵.
 
 <br>
 
