@@ -48,6 +48,7 @@ current_focus:
 
 | Certification | Issuer | Valid |
 |---|---|---|
+| ☁️ **Azure Solutions Architect Expert (AZ-305)** | Microsoft | 06/2026 – 06/2027 |
 | 🔐 **Azure Security Engineer Associate (AZ-500)** | Microsoft | 04/2026 – 04/2027 |
 | ☁️ **Azure Administrator Associate (AZ-104)** | Microsoft | 10/2025 – 10/2026 |
 | 🛡️ **Fortinet Certified Associate – Cybersecurity** | Fortinet | 12/2024 – 12/2026 |
