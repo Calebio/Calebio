@@ -34,7 +34,8 @@ current_focus:
   - Cloud Infrastructure (Azure, AWS, Hetzner, OVHcloud)
   - Infrastructure as Code (Terraform, Ansible)
   - Cloud Security Architecture
-  - Identity & Access Governance (Entra ID)
+  - Identity & Access Governance (Entra ID, SSO)
+  - Device Management & App Deployment (Intune)
   - Microsoft Defender Ecosystem
   - DevSecOps & Infrastructure Hardening
 
