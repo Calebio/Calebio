@@ -1,0 +1,50 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Actions are pinned to full commit SHAs so a moved tag can't change what runs here.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # Publish only the site itself, never repo files like .github or README.
+      - name: Collect site files
+        run: |
+          mkdir dist
+          cp index.html _headers dist/
+          cp -R images dist/images
+
+      - name: Deploy
+        id: deploy
+        uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4.1.3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: "4.156.0"
+          command: pages deploy dist --project-name=calebkalu --branch=main --commit-dirty=true
+
+      - name: Check security headers are served
+        env:
+          DEPLOY_URL: ${{ steps.deploy.outputs.deployment-url }}
+        run: |
+          sleep 10
+          headers="$(curl -sSI "$DEPLOY_URL")"
+          echo "$headers"
+          for h in content-security-policy strict-transport-security x-content-type-options referrer-policy permissions-policy; do
+            echo "$headers" | grep -qi "^$h:" || { echo "::error::Missing header: $h"; exit 1; }
+          done
