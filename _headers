@@ -8,3 +8,10 @@
 
 /images/*
   Cache-Control: public, max-age=31536000, immutable
+
+# Keep the pages.dev copies out of search results so only calebkalu.com is indexed
+https://calebkalu.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.calebkalu.pages.dev/*
+  X-Robots-Tag: noindex

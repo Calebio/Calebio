@@ -26,7 +26,7 @@ jobs:
       - name: Collect site files
         run: |
           mkdir dist
-          cp index.html _headers dist/
+          cp index.html _headers robots.txt sitemap.xml dist/
           cp -R images dist/images
 
       # Fails with a specific message if a secret is wrong, without printing either secret.
